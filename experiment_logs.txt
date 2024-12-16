@@ -1,0 +1,70 @@
+INFO:root:Running for k = 5
+INFO:root:
+
+INFO:root:rsmeans_cost : 55436.86689273838
+INFO:root:rsmeans_dev : 24605.043342867113
+INFO:root:rsmeans_time : 0.00428 seconds
+INFO:root:
+
+INFO:root:afkcmc2_cost for m = 200 : 51163.27709067636
+INFO:root:afkmc2_dev for m = 200 : 20319.196153944522
+INFO:root:afkcmc2_time for m = 200 : 0.06878 seconds
+INFO:root:
+
+INFO:root:--------------------------------------------------
+INFO:root:Running for k = 10
+INFO:root:
+
+INFO:root:rsmeans_cost : 41230.29027761956
+INFO:root:rsmeans_dev : 10395.122934082918
+INFO:root:rsmeans_time : 0.01338 seconds
+INFO:root:
+
+INFO:root:afkcmc2_cost for m = 200 : 40977.74479721053
+INFO:root:afkmc2_dev for m = 200 : 9083.129407627437
+INFO:root:afkcmc2_time for m = 200 : 0.15203 seconds
+INFO:root:
+
+INFO:root:--------------------------------------------------
+INFO:root:Running for k = 20
+INFO:root:
+
+INFO:root:rsmeans_cost : 30274.46506628392
+INFO:root:rsmeans_dev : 3673.9729231503284
+INFO:root:rsmeans_time : 0.04394 seconds
+INFO:root:
+
+INFO:root:afkcmc2_cost for m = 200 : 30730.851671065342
+INFO:root:afkmc2_dev for m = 200 : 4699.893295311403
+INFO:root:afkcmc2_time for m = 200 : 0.33133 seconds
+INFO:root:
+
+INFO:root:--------------------------------------------------
+INFO:root:Running for k = 50
+INFO:root:
+
+INFO:root:rsmeans_cost : 16967.168253951684
+INFO:root:rsmeans_dev : 1088.8147307805825
+INFO:root:rsmeans_time : 0.24526 seconds
+INFO:root:
+
+INFO:root:afkcmc2_cost for m = 200 : 16941.5959060372
+INFO:root:afkmc2_dev for m = 200 : 891.9788679428933
+INFO:root:afkcmc2_time for m = 200 : 0.86817 seconds
+INFO:root:
+
+INFO:root:--------------------------------------------------
+INFO:root:Running for k = 100
+INFO:root:
+
+INFO:root:rsmeans_cost : 9781.567807878153
+INFO:root:rsmeans_dev : 386.7884138712582
+INFO:root:rsmeans_time : 0.85036 seconds
+INFO:root:
+
+INFO:root:afkcmc2_cost for m = 200 : 9726.57959824382
+INFO:root:afkmc2_dev for m = 200 : 301.3097703136693
+INFO:root:afkcmc2_time for m = 200 : 1.72290 seconds
+INFO:root:
+
+INFO:root:--------------------------------------------------
